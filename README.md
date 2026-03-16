@@ -1,36 +1,58 @@
-# 👋 Hi, I'm Ondrej
-
-🚀 **Data Scientist & Data Engineer** with 4+ years of experience delivering impact in top banks and startups.  
-💡 Passionate about **automation, advanced analytics, and cloud data engineering**.  
-
----
-
-## 🔧 Skills & Tools
-- **Programming & Data:** Python, SQL (Teradata, Oracle), R, dbt, Spark, Excel/VBA  
-- **Data Engineering:** Google Cloud (BigQuery, Functions, Storage), Airflow, AWS (Lambda, S3, Glue), Git  
-- **Analytics & Visualization:** Tableau, Power BI, advanced SQL  
-- **Soft Skills:** Technical-to-business communication, adaptability, cross-team collaboration  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Ondrej+Mlynarcik&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+```yaml
+name: Ondrej Mlynarcik
+role: Data Engineer / Data Analyst
+experience: 4+ years across banking and e-commerce
+focus: pipelines, analytics, cloud data infrastructure
+currently: consulting remotely | open to new roles
+```
 
 ---
 
-## 🏆 Highlight Projects
-Here are some projects that showcase my skills:
+## Skills
 
-🔹 [**Dutch Tree Visibility (Spatial ML)**](https://github.com/Spatial-Data-Science-and-GEO-AI-Lab/2.5D-GreenViewIndex-Netherlands)  
-Viewshed + MGWR pipeline analyzing 15M+ geospatial data points for urban planning.  
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+</p>
 
-🔹 [**AWS Lambda CSV → Parquet Converter**](https://github.com/ondrejmlynarc/aws-lambda-parquet)  
-Serverless Lambda function automating S3 CSV → Parquet conversion and Glue catalog updates.  
-
-🔹 [**Real Estate Scraper (Slovakia)**](https://github.com/ondrejmlynarc/scraping-real-estate-selenium)  
-Optimized Python scraper with Selenium + BeautifulSoup for large-scale property data collection.  
-
-🔹 [**SQL Cheatsheet**](https://github.com/ondrejmlynarc/SQL-cheatsheet-data-science-engineering)  
-Advanced SQL queries & tricks tailored for data science and engineering.  
+`Python` `SQL` `dbt` `Airflow` `PySpark` `BigQuery` `AWS Lambda` `S3` `Glue` `Power BI` `Tableau` `Excel/VBA` `scikit-learn` `Machine Learning` `Spatial ML`
 
 ---
 
-## 📫 Connect with Me
-- 🌐 [Portfolio](https://ondrejmlynarc.github.io/portfolio/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ondrej-mlynarcik/)  
-- 📧 ondrejmlynarc@gmail.com  
+## Projects
+
+**[Dutch Tree Visibility: Viewshed and MGWR Modelling](https://github.com/Spatial-Data-Science-and-GEO-AI-Lab/2.5D-GreenViewIndex-Netherlands)**
+Nationwide geospatial pipeline analysing 15M+ data points via Spatial ML for urban planning.
+`Python` `GeoPandas` `PostGIS` `QGIS`
+
+**[AWS Lambda S3 to Parquet Converter](https://github.com/ondrejmlynarc/aws-lambda-parquet)**
+Serverless pipeline automating CSV to Parquet conversion in S3 with Glue catalog updates.
+`AWS Lambda` `S3` `Glue` `Python`
+
+**[Slovak Real Estate Market Dataset](https://github.com/ondrejmlynarc/scraping-real-estate-selenium)**
+Scraper for large-scale property listing collection and housing market analysis.
+`Python` `Selenium` `BeautifulSoup` `pandas`
+
+**[SQL Cheatsheet](https://github.com/ondrejmlynarc/SQL-cheatsheet-data-science-engineering)**
+Advanced SQL reference for data engineering and analytics use cases.
+
+---
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/ondrej-mlynarcik/) · [Portfolio](https://ondrejmlynarc.github.io/portfolio/) · ondrejmlynarc@gmail.com
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
