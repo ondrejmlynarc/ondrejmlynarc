@@ -1,11 +1,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Ondrej+Mlynarcik&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
+
 ```yaml
 name: Ondrej Mlynarcik
 role: Data Engineer / Data Analyst
 experience: 4+ years across banking and e-commerce
-focus: pipelines, analytics, cloud data infrastructure
+focus: pipelines, automation, analytics, data warehousing
 currently: consulting remotely | open to new roles
 ```
 
