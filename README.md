@@ -1,12 +1,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Ondrej+Mlynarcik&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-
 ```yaml
 name: Ondrej Mlynarcik
-role: Data Engineer / Data Analyst
+role: Analytics Engineer
 experience: 4+ years across banking and e-commerce
-focus: pipelines, automation, analytics, data warehousing
+focus: dbt models, pipelines, analytics, data warehousing
 currently: consulting remotely | open to new roles
 ```
 
@@ -22,16 +21,18 @@ currently: consulting remotely | open to new roles
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </p>
 
-`Python` `SQL` `dbt` `Airflow` `PySpark` `BigQuery` `AWS Lambda` `S3` `Glue` `Power BI` `Tableau` `Excel/VBA` `scikit-learn` `Machine Learning` `Spatial ML`
+`Python` `SQL` `dbt` `Airflow` `PySpark` `BigQuery` `AWS Lambda` `S3` `Glue` `Power BI` `Tableau` `Excel/VBA`
 
 ---
 
 ## Projects
+
+**[dbt Running Analytics](https://github.com/ondrejmlynarc/dbt-running-analytics)**
+Personal dbt project modelling real training data — staging, intermediate, and mart layers with incremental models, macros, tests, and full docs. Built on DuckDB.
+`dbt` `DuckDB` `SQL` `Python`
 
 **[Dutch Tree Visibility: Viewshed and MGWR Modelling](https://github.com/Spatial-Data-Science-and-GEO-AI-Lab/2.5D-GreenViewIndex-Netherlands)**
 Nationwide geospatial pipeline analysing 15M+ data points via Spatial ML for urban planning.
