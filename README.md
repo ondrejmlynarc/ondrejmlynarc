@@ -1,13 +1,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Ondrej+Mlynarcik&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-```yaml
-name: Ondrej Mlynarcik
-role: Analytics Engineer
-experience: 4+ years across banking and e-commerce
-focus: dbt models, pipelines, analytics, data warehousing
-currently: consulting remotely | open to new roles
-```
+
+<br/>
+
+**Analytics Engineer** · 4+ years across banking and e-commerce · dbt, pipelines, analytics, data warehousing · consulting remotely
 
 ---
 
