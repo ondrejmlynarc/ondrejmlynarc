@@ -28,7 +28,7 @@
 ## Projects
 
 **[dbt Running Analytics](https://github.com/ondrejmlynarc/dbt-running-analytics)**
-Personal dbt project modelling real training data — staging, intermediate, and mart layers with incremental models, macros, tests, and full docs. Built on DuckDB.
+Personal dbt project modelling real training data, including staging, intermediate, and mart layers with incremental models, macros, tests, and full docs. Built on DuckDB.
 `dbt` `DuckDB` `SQL` `Python`
 
 **[Dutch Tree Visibility: Viewshed and MGWR Modelling](https://github.com/Spatial-Data-Science-and-GEO-AI-Lab/2.5D-GreenViewIndex-Netherlands)**
