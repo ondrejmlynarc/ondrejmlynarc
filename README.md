@@ -27,34 +27,19 @@
 
 ## Projects
 
-### [dbt Running Analytics](https://github.com/ondrejmlynarc/dbt-running-analytics)
-
-Personal dbt project modelling real training data, including staging, intermediate, and mart layers with incremental models, macros, tests, and full docs. Built on DuckDB.
-
+**[dbt Running Analytics](https://github.com/ondrejmlynarc/dbt-running-analytics)** — Personal dbt project modelling real training data, including staging, intermediate, and mart layers with incremental models, macros, tests, and full docs. Built on DuckDB.  
 `dbt` `DuckDB` `SQL` `Python`
 
-### [Dutch Tree Visibility: Viewshed and MGWR Modelling](https://github.com/Spatial-Data-Science-and-GEO-AI-Lab/2.5D-GreenViewIndex-Netherlands)
-
-Nationwide geospatial pipeline analysing 15M+ data points via Spatial ML for urban planning.
-
+**[Dutch Tree Visibility: Viewshed and MGWR Modelling](https://github.com/Spatial-Data-Science-and-GEO-AI-Lab/2.5D-GreenViewIndex-Netherlands)** — Nationwide geospatial pipeline analysing 15M+ data points via Spatial ML for urban planning.  
 `Python` `GeoPandas` `PostGIS` `QGIS`
 
-### [AWS Lambda S3 to Parquet Converter](https://github.com/ondrejmlynarc/aws-lambda-parquet)
-
-Serverless pipeline automating CSV to Parquet conversion in S3 with Glue catalog updates.
-
+**[AWS Lambda S3 to Parquet Converter](https://github.com/ondrejmlynarc/aws-lambda-parquet)** — Serverless pipeline automating CSV to Parquet conversion in S3 with Glue catalog updates.  
 `AWS Lambda` `S3` `Glue` `Python`
 
-### [Slovak Real Estate Market Dataset](https://github.com/ondrejmlynarc/scraping-real-estate-selenium)
-
-Scraper for large-scale property listing collection and housing market analysis.
-
+**[Slovak Real Estate Market Dataset](https://github.com/ondrejmlynarc/scraping-real-estate-selenium)** — Scraper for large-scale property listing collection and housing market analysis.  
 `Python` `Selenium` `BeautifulSoup` `pandas`
 
-### [SQL Cheatsheet](https://github.com/ondrejmlynarc/SQL-cheatsheet-data-science-engineering)
-
-Advanced SQL reference for data engineering and analytics use cases.
-
+**[SQL Cheatsheet](https://github.com/ondrejmlynarc/SQL-cheatsheet-data-science-engineering)** — Advanced SQL reference for data engineering and analytics use cases.  
 `SQL`
 
 ---
